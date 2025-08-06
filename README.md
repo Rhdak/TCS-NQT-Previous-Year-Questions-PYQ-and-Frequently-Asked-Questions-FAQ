@@ -4,7 +4,7 @@ I’m sharing the exact coding questions I practiced for the **TCS NQT 2024**. T
 
 ---
 
-## ✅ How to Access the Sheet
+## ✅ How to Access the TCS NQT Sheet
 
 If you want to view the same problems I solved and try them yourself:
 
@@ -20,7 +20,7 @@ Once you import it, all problems will be added to your account — and you can s
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
 
 > *(If you add screenshots, save them in an `images/` folder and reference them like this)*
 
