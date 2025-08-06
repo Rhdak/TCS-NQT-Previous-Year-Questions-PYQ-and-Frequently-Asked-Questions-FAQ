@@ -12,7 +12,7 @@ If you want to view the same problems I solved and try them yourself:
 1. Visit [**CodeVault**](https://codeevault.netlify.app)
 2. Sign up with your email.
 3. Click **"Recieve"** in the header near logout.
-4. Enter this share code: TCS123
+4. Enter this share code: **TCS123**
 
 Once you import it, all problems will be added to your account — and you can start solving or editing them however you want.
 
