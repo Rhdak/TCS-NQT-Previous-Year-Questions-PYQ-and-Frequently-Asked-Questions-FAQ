@@ -9,7 +9,7 @@ I’m sharing the exact coding questions I practiced for the **TCS NQT 2024**. T
 If you want to view the same problems I solved and try them yourself:
 
 ### 👉 Steps:
-1. Visit [**CodeVault**](https://codevault.netlify.app)
+1. Visit [**CodeVault**](https://codeevault.netlify.app)
 2. Sign up with your email.
 3. Click **"Recieve"** in the header near logout.
 4. Enter this share code: TCS123
