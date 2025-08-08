@@ -22,11 +22,10 @@ Once you import it, all problems will be added to your account — and you can s
 
 ## 📸 Screenshots
 
-> *(If you add screenshots, save them in an `images/` folder and reference them like this)*
 
-![CodeVault Home](./images/home.png)  
-![Import Screen](./images/import.png)  
-![Problem View](./images/problem.png)
+![CodeVault Home](./images/recieve.png)  
+![Import Screen](./images/TCS123.png)  
+![Problem View](./images/shared.png)
 
 ---
 
